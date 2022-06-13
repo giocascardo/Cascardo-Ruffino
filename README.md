@@ -5,4 +5,4 @@ Giovanni Cascardo y Maximo Ruffino
 ### Tecnologias usadas
 Javascript, HTML Y CSS
 ## Link
-(https://maxirufino.github.io/Cascardo-Ruffino/)
+https://maxirufino.github.io/Cascardo-Ruffino/
