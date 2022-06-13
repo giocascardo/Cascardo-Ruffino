@@ -4,5 +4,3 @@ Esta pagina corresponde a un juego con puntaje.
 Giovanni Cascardo y Maximo Ruffino
 ### Tecnologias usadas
 Javascript, HTML Y CSS
-## Link
-https://maxirufino.github.io/Cascardo-Ruffino/
