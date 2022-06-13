@@ -1,4 +1,5 @@
 body {
+    background-color: aqua;
     background-image: url("images/fondoinicio.jpg");
     font-family: "Roboto Light", sans-serif;
     min-height: 90vh;
