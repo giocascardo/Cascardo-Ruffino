@@ -63,7 +63,7 @@ function initCanvas(){
         this.y=500,
             this.x=cW*.5-25,
             this.w=100,
-        this.h=100,
+            this.h=100,
             this.direccion,
             this.bg="white",
             this.misiles=[];
@@ -227,7 +227,7 @@ function initCanvas(){
     document.addEventListener('keydown', function (event){
         if(event.keyCode===80){
             location.reload();
-            }
+        }
     });
 
     left_btn.addEventListener('mousedown', function (event){
@@ -256,15 +256,15 @@ function initCanvas(){
     });
 
     document.addEventListener('keydown', function (event){
-    if(event.keyCode===32){
-     launcher.misiles.push({
-     x:launcher.x+launcher.w*.5,
-         y:launcher.y,
-         w:3,
-         h:10,
+        if(event.keyCode===32){
+            launcher.misiles.push({
+                x:launcher.x+launcher.w*.5,
+                y:launcher.y,
+                w:3,
+                h:10,
+            });
+        }
     });
-    }
-});
 }
 window.addEventListener('load', function (event){
     initCanvas();
